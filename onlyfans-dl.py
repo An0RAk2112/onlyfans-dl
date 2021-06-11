@@ -40,7 +40,7 @@ PROFILE_ID = ""
 
 API_HEADER = {
     "Accept": "application/json, text/plain, */*",
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 YaBrowser/21.5.3.229 (beta) Yowser/2.5 Safari/537.36",
     "Accept-Encoding": "gzip, deflate"
 }
 
@@ -197,7 +197,7 @@ def download_posts(cur_count, posts, is_archived):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: ./onlyfans-dl <profile> <accessToken>")
+        print("Usage: ./onlyfans-dl <adamae_dono> <k59e9fq9af0arbfpb9c0f30vdg>")
         print("See README for instructions.")
         exit()
 
